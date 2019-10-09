@@ -1,14 +1,14 @@
 Gridiron Showdown Game Treatment
 
-Concept
-  Take on the role of an NFL GM, build your perfect team with your favorite players, and compete with all the other teams in the NFL to       
-  claim the ultimate NFL Title, Super Bowl Champion!!
+Concept:
+  -Take on the role of an NFL GM, build your perfect team with your favorite players, and compete with all the other teams in the NFL to       
+  -claim the ultimate NFL Title, Super Bowl Champion!!
 
-Genre
-  Football based Strategy Card Game
+Genre:
+  -Football based Strategy Card Game
 
-Platform
-  PC only
+Platform:
+  -PC only
   
 Story
   Take on the role of a rookie NFL GM. Start with a team of base player cards and play to gain stronger cards to build your team.
