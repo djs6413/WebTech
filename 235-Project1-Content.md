@@ -42,7 +42,7 @@
     rushing is safer. So depending on what you need, you will have to choose correctly. Also may add some more play type options and stats 
     if time permits to further this aspect of the game.
 
-About the Developer
+## About the Developer
   My name is Daniel Schied and I am a Game Design and Devlopment major at Rochester Institute of Technology in my second year. I have been
   programming since I was 14 and have used many languages since then, including heavy usage of C#, Java, Python, Unix, and HTML/CSS. I enjoy
   working on game concept design, and game physics specifically, but also enjoy learning about and working on all aspects of game development
